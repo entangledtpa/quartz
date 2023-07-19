@@ -1,4 +1,4 @@
-baseURL = "https://http://entangledtpa.github.io/"
+baseURL = "https://entangledtpa.github.io/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
