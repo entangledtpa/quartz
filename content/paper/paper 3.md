@@ -8,37 +8,37 @@ folder: T:/pub_2023_XY
 ## Allgemeine Infos
 
 **Arbeitstitel**
-working_title:: Arbeitstitle von paper 1
+working_title:: Arbeitstitel von Manuskript 3
 
 **Kurzbeschreibung des Publikationsprojektes** 
 *(Bsp. Untersuche Zusammenhang zwischen ....)*
-description:: Untersuche den Zusammenhang zwischen X und Y.
+description:: Finde Struktur in Daten
 
 **Federführende Person** 
 *(meistens der phd)*
-lead:: Han-Tin Kao
+lead:: Andrea Schumacher
 
 **Zuständiger Supervisor**
 *(meistens der postdoc)*
-supervisor:: Marialuisa Cavelti
+supervisor:: Armita Tschitsatz
 
 **Zuständiger Statistiker***
 *(Stefan Lerch, Silvano Sele, keiner)*
-statistician:: Silvano Sele
+statistician:: Stefan Lerch
 
 **Koautoren**
 *(Liste aller Koautoren mit einfachen Anfürhungszeichen)*
-*(Bsp: ['Arthur Arms','Bobby Becker'])*
-coauthors:: ['Autor 1', 'Koautor 2']
+*(Bsp: ['Arthur Arms','Charlie Chaplin'])*
+coauthors:: ['Autor 1', 'Koautor 3']
 
 **Daten**
 *Aus welchen Projekten stammen die Daten?*
 *(Bsp: ['atrisk','bebadoc'])*
-data_projects:: ['atrisk heidelberg']
+data_projects:: ['atrisk','bebadoc']
 
 *Datensatz Bemerkungen*
 *(Bsp: atrisk release version 10, Stichtag XY)*
-data_notes:: Datenrelease vom 1.1.13 ohne Frauen
+data_notes:: Atrisk V13, Bebadok V3
 
 
 
@@ -46,7 +46,7 @@ data_notes:: Datenrelease vom 1.1.13 ohne Frauen
 
 *Wähle einen Status aus folgender Liste*
 *start, research question, analysis, writing, submitted, revision, published, on hold, stopped*
-status:: analysis
+status:: submitted
 start:: 17.05.2020
 analysis_meeting1:: DD-MM-YYYY
 methodenmeeting:: DD-MM-YYYY

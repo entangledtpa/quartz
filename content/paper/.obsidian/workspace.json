@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper 1.md",
+                "file": "Paper overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper 1.md",
+                "file": "Paper overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper 1.md",
+                "file": "Paper overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper 1.md"
+                "file": "Paper overview.md"
               }
             }
           }
@@ -159,7 +159,10 @@
   "active": "7261df51f706d0cd",
   "lastOpenFiles": [
     "templates/template paper.md",
-    "paper 1.md",
+    "Paper overview.md",
+    "paper/paper 2.md",
+    "paper/paper 3.md",
+    "paper/paper 1.md",
     "templates",
     "paper"
   ]
