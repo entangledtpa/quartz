@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:templates/template paper.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}
